@@ -9,4 +9,4 @@ use Mix.Config
 # kept out of version control and might be hard to recover
 # or recreate for your teammates (or yourself later on).
 config :gallows, GallowsWeb.Endpoint,
-  secret_key_base: "igK5mgdt/AxVH9rNti7efBcoiHCTM2AfRMtXDgI43llH53GCn6Qge0iJxAmnYVTb"
+  secret_key_base: "QaH/tIfDZs9uzirdzNYrO1r5synp6AXUflmXk1/4bj/4zfwCSpdum3vt/Chlxpy5"

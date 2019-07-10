@@ -11,18 +11,18 @@ defmodule Hangman.MixProject do
     ]
   end
 
-
   def application do
     [
-      extra_applications: [:logger]
+      mod: {Hangman.Application, []},
+      extra_applications: [
+        :logger
+      ]
     ]
   end
 
- 
   defp deps do
     [
-	{:dictionary, path: "../dictionary"}
+      {:dictionary, path: "../dictionary"}
     ]
   end
-
 end
