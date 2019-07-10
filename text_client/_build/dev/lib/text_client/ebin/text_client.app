@@ -7,5 +7,4 @@
                         'Elixir.TextClient.State',
                         'Elixir.TextClient.Summary']},
               {registered,[]},
-              {vsn,"0.1.0"},
-              {included_application,[hangman]}]}.
+              {vsn,"0.1.0"}]}.
