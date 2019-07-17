@@ -1,5 +1,5 @@
 defmodule TextClient.Interact do
-  @hangman_server :hagman@Camara
+  @hangman_server :hangman@Camara
 
   alias TextClient.{Player, State}
 
